@@ -1,0 +1,40 @@
+<div style="width:198px; float:left; margin:1px 1px 2px 5px">
+<ul class="anyClass skinPlank">
+    	<li><a href="#">Туры выходного дня</a>
+            [!Wayfinder? &startId=`19`!]
+     	</li>
+         <li><a href="#">Туры по Европе</a>
+            [!Wayfinder? &startId=`20`!]
+         </li>
+     	<li><a href="#">Пляжный отдых</a>
+            [!Wayfinder? &startId=`61`!]
+    	</li>
+        <li><a href="#">Бронирование отелей</a>
+            [!Wayfinder? &startId=`486`!]
+    	</li>
+        <li><a href="#">Круизы</a>
+            [!Wayfinder? &startId=`88`!]
+    	</li>
+        <li><a href="#">Экскурсионные туры</a>
+            [!Wayfinder? &startId=`93`!]
+    	</li>
+        <li><a href="#">Прием в Беларуси</a>
+            [!Wayfinder? &startId=`53`!]
+    	</li>
+        <li><a href="#">Лечение и оздоровление</a>
+            [!Wayfinder? &startId=`69`!]
+    	</li>
+        <li><a href="#">Туры для школьников</a>
+            [!Wayfinder? &startId=`79`!]
+    	</li>
+        <li><a href="#">Корпоративным клиентам</a>
+            [!Wayfinder? &startId=`74`!]
+    	</li>
+        <li><a href="#">Визовая поддержка</a>
+            [!Wayfinder? &startId=`327`!]
+    	</li>
+        <li><a href="#">Памятка для туриста</a>
+            [!Wayfinder? &startId=`328`!]
+    	</li>
+    </ul>
+</div>
