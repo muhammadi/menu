@@ -1,0 +1,16 @@
+<!-- menu-NEW -->
+<link rel="stylesheet" href="http://freelift.by/temp/css/skin/liHarmonicaPlank.css" type="text/css" />
+<script type="text/javascript" src="http://freelift.by/temp/js/jquery-1.8.min.js"></script>
+<script type="text/javascript" src="http://freelift.by/temp/js/jquery.liHarmonica.js"></script>
+<script>
+$(function(){
+	$('.anyClass').liHarmonica({
+		onlyOne:false,
+		speed:500
+	});
+	$('.anyClass2').liHarmonica({
+		onlyOne:true,
+		speed:400
+	});
+});
+</script>
